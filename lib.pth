@@ -1,0 +1,11 @@
+packages/Django
+packages/jinja2
+packages/mock
+packages/nose
+packages/python-memcached
+src/commonware
+src/django-multidb-router
+src/django-nose
+src/jingo
+src/paranoidsessions
+src/test-utils
